@@ -3,7 +3,7 @@ Use Google Assistant to control your SkyHD via a RPi
 
 This project uses Google asistant to control SkyHD box via a Raspberry Pi
 It builds upon the work done to control a Samsung TV here https://github.com/StancuFlorin/Google-Assistant-Samsung-Smart-TV-Integration
-and the work done by SkyHDControl here https://github.com/dalhundal/sky-remote
+and the work done by SkyHDControl here https://github.com/dalhundal/sky-remote-cli
 
 Use your Google Home device as a remote for your SkyHD box. 
 The basic flow (flow.png) is as below:
@@ -13,7 +13,7 @@ The basic flow (flow.png) is as below:
 ## Requirements ##
 
 - Python 3.4
-- install SkyHDControl on the Raspberry Pi
+- install SkyHDControl on the Raspberry Pi "npm install -g sky-remote-cli"
 
 ## Installation ##
 
