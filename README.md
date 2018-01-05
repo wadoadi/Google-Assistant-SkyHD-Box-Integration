@@ -13,7 +13,7 @@ The basic flow (flow.png) is as below:
 ## Requirements ##
 
 - Python 3.4
-
+- install SkyHDControl on the Raspberry Pi
 
 ## Installation ##
 
