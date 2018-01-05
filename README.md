@@ -6,4 +6,8 @@ It builds upon the work done to control a Samsung TV here https://github.com/Sta
 and the work done by SkyHDControl here https://github.com/dalhundal/sky-remote
 
 Use your Google Home device as a remote for your SkyHD box. 
-The basic flow is as below:
+The basic flow (flow.png) is as below:
+
+![alt text](https://github.com/wadoadi/Google-Assistant-SkyHD-Box-Integration/blob/master/flow.png)
+
+
